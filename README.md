@@ -1,7 +1,10 @@
 ![Picture](https://github.com/pku-H2R/Feature-Engineering/blob/master/Picture/feature.jpg)
                                                                                               
 
-**The goal of this project is to summarize the various experiences in the neural network training process. When we train the network, we always have to face two major problems. One is the design of the network structure, and the other is the training configuration of the network, which is hyperparameter tuning**
+**Digitalizing the world**  
+**Finding the relationship between these numbers**  
+**Reaching from the mystery into the deeper mystery**  
+**Is the gate to the secret of all life**
 
 # Content
 * [Why](#Why)
