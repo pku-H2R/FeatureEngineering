@@ -32,6 +32,31 @@
 
 # Feature-Selection
 
+* Search Technique/Strategy 
+  * Complete Search
+    * Branch and bound
+  * Heuristic Search
+    * Sequential Forward Search
+    * Sequential Backward Search
+    * Bidirectional Search
+  * Random Search
+    * Simulated Annealing
+    * Genetic Algorithm
+    * Particl Swarm Optimization
+ 
+* Evaluation Function
+  * Wrapper
+  * Filter
+  * Embedding
+  * Hybrid
+  
+* Search starting point and direction
+* Stopping Criteria
+  * Setting runtime
+  * Setting run-count
+  * Setting threshold
+ 
+
 
 
 
