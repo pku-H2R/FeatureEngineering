@@ -11,7 +11,7 @@
 * [Feature Selection](#Feature-Selection)
 * [Feature Extraction](#Feature-Extraction)
 * [Feature Fusion](#Feature-Fusion)
-* [Feature Importance](Feature-Importance)
+* [Feature Importance](#Feature-Importance)
 * [Automatic](#Automatic)
 * [Website](#Website)
 
