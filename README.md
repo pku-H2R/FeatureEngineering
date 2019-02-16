@@ -19,11 +19,11 @@
 # Why
 
 * Why do this?
-  * the key for machine learning project(bad/good or failure/success)
+  * visualization
+  * avoiding the curse of dimensionality
   * avoiding overfitting and improving the generalization ability
   * shortening training time and improving computation efficiency
-  * avoiding the curse of dimensionality
-  * visualization
+  * the key for machine learning project(bad/good or failure/success)  
 * Why can do this?
   * The data contains many features that are either redundant or irrelevant.
 * How do this?
