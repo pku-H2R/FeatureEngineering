@@ -10,6 +10,8 @@
 * [Why](#Why)
 * [Feature Selection](#Feature-Selection)
 * [Feature Extraction](#Feature-Extraction)
+* [Feature Fusion](#Feature-Fusion)
+* [Feature Importance](Feature-Importance)
 * [Automatic](#Automatic)
 * [Website](#Website)
 
@@ -27,8 +29,6 @@
 * How do this?
   * Feature Selection
   * Feature Extraction
-
-
 
 # Feature-Selection
 
@@ -56,11 +56,6 @@
   * Setting run-count
   * Setting threshold
  
-
-
-
-
-
 # Feature-Extraction
 * Linear Transformation
   * PCA
@@ -76,6 +71,9 @@
     * Isometric Feature Mapping
     * Laplacian Eigenmaps
 
+# Feature-Fusion
+
+# Feature-Importance
 
 
 # Automatic
