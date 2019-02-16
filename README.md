@@ -24,6 +24,9 @@
   * visualization
 * Why can do this?
   * The data contains many features that are either redundant or irrelevant.
+* How do this?
+  * Feature Selection
+  * Feature Extraction
 
 
 
