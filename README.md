@@ -79,6 +79,8 @@
 
 
 # Automatic
+* SparseCoding/Dictionary Learning
+* Representation Learning
 [Featuretools](https://github.com/Featuretools/featuretools)
 
 
