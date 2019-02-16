@@ -62,6 +62,19 @@
 
 
 # Feature-Extraction
+* Linear Transformation
+  * PCA
+  * LDA
+* Nonlinear Transformation
+  * Kernel
+    * Kernel-PCA
+    * Kernel-LDA
+  * Neural Network
+    * Autoencoder
+  * Manifold Learning
+    * Locally Linear Embedding
+    * Isometric Feature Mapping
+    * Laplacian Eigenmaps
 
 
 
