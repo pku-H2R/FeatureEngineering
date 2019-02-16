@@ -1,11 +1,9 @@
 ![Picture](https://github.com/pku-H2R/Feature-Engineering/blob/master/Picture/feature.jpg)
                                                                                               
-<p align='center'>
-  <i>Digitalizing the world</i>  
-  <i>Finding the relationship between these numbers</i>  
-  Reaching from the mystery into the deeper mystery  
-  Is the gate to the secret of all life
-</p>
+**Digitalizing the world**  
+**Finding the relationship between these numbers** 
+**Reaching from the mystery into the deeper mystery**  
+**Is the gate to the secret of all life**
 
 # Content
 * [Why](#Why)
