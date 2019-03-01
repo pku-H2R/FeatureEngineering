@@ -80,6 +80,7 @@
 * Sparse Coding (a.k.a  Dictionary Learning)
 * Representation Learning
 * [Featuretools](https://github.com/Featuretools/featuretools)
+* [tsfresh](https://github.com/blue-yonder/tsfresh)
 
 
 
