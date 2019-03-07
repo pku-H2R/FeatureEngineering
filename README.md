@@ -13,6 +13,7 @@
 * [Feature Fusion](#Feature-Fusion)
 * [Feature Importance](#Feature-Importance)
 * [Automatic](#Automatic)
+* [Ideal Feature](#Ideal_Feature)
 * [Website](#Website)
 
 
@@ -83,6 +84,11 @@
 * [tsfresh](https://github.com/blue-yonder/tsfresh)
 
 
+# Ideal_Feature
+* Informative(avoid irrelevant)
+* Independent(avoid redundant)
+* Interpretability
+* Simple
 
 
 # Website
